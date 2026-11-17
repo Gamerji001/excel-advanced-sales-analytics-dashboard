@@ -13,10 +13,12 @@ An interactive, executive-level business intelligence dashboard built entirely i
 
 ---
 
+
 ## 📂 Project Structure
 ```text
 📦 excel-advanced-sales-analytics-dashboard
-┣ 📂 screenshots
+┣ 📂 screenshots -- (<img width="1173" height="523" alt="Screenshot 2026-11-17 085126" src="https://github.com/user-attachments/assets/dc2ce27b-3591-462e-aa52-796a1911a8b5" />
+)
 ┃ ┣ 📜 dashboard_overview.png
 ┃ ┣ 📜 interactive_slicers.png
 ┗ 📜 Excel_Data_Analyst_Revision_Dataset.xlsx
